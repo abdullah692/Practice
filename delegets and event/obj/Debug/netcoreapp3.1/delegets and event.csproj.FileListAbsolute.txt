@@ -1,0 +1,13 @@
+C:\Users\Abdullah Siddiqui\source\repos\delegets and event\bin\Debug\netcoreapp3.1\delegets and event.exe
+C:\Users\Abdullah Siddiqui\source\repos\delegets and event\bin\Debug\netcoreapp3.1\delegets and event.deps.json
+C:\Users\Abdullah Siddiqui\source\repos\delegets and event\bin\Debug\netcoreapp3.1\delegets and event.runtimeconfig.json
+C:\Users\Abdullah Siddiqui\source\repos\delegets and event\bin\Debug\netcoreapp3.1\delegets and event.runtimeconfig.dev.json
+C:\Users\Abdullah Siddiqui\source\repos\delegets and event\bin\Debug\netcoreapp3.1\delegets and event.dll
+C:\Users\Abdullah Siddiqui\source\repos\delegets and event\bin\Debug\netcoreapp3.1\delegets and event.pdb
+C:\Users\Abdullah Siddiqui\source\repos\delegets and event\obj\Debug\netcoreapp3.1\delegets and event.csprojAssemblyReference.cache
+C:\Users\Abdullah Siddiqui\source\repos\delegets and event\obj\Debug\netcoreapp3.1\delegets and event.AssemblyInfoInputs.cache
+C:\Users\Abdullah Siddiqui\source\repos\delegets and event\obj\Debug\netcoreapp3.1\delegets and event.AssemblyInfo.cs
+C:\Users\Abdullah Siddiqui\source\repos\delegets and event\obj\Debug\netcoreapp3.1\delegets and event.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Siddiqui\source\repos\delegets and event\obj\Debug\netcoreapp3.1\delegets and event.dll
+C:\Users\Abdullah Siddiqui\source\repos\delegets and event\obj\Debug\netcoreapp3.1\delegets and event.pdb
+C:\Users\Abdullah Siddiqui\source\repos\delegets and event\obj\Debug\netcoreapp3.1\delegets and event.genruntimeconfig.cache

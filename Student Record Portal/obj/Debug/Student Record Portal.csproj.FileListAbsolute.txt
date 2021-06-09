@@ -1,0 +1,11 @@
+C:\Users\Abdullah Siddiqui\source\repos\Student Record Portal\bin\Debug\Student Record Portal.exe.config
+C:\Users\Abdullah Siddiqui\source\repos\Student Record Portal\bin\Debug\Student Record Portal.exe
+C:\Users\Abdullah Siddiqui\source\repos\Student Record Portal\bin\Debug\Student Record Portal.pdb
+C:\Users\Abdullah Siddiqui\source\repos\Student Record Portal\obj\Debug\Student Record Portal.csprojAssemblyReference.cache
+C:\Users\Abdullah Siddiqui\source\repos\Student Record Portal\obj\Debug\Student_Record_Portal.Form1.resources
+C:\Users\Abdullah Siddiqui\source\repos\Student Record Portal\obj\Debug\Student_Record_Portal.Properties.Resources.resources
+C:\Users\Abdullah Siddiqui\source\repos\Student Record Portal\obj\Debug\Student Record Portal.csproj.GenerateResource.cache
+C:\Users\Abdullah Siddiqui\source\repos\Student Record Portal\obj\Debug\Student Record Portal.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Siddiqui\source\repos\Student Record Portal\obj\Debug\Student Record Portal.exe
+C:\Users\Abdullah Siddiqui\source\repos\Student Record Portal\obj\Debug\Student Record Portal.pdb
+C:\Users\Abdullah Siddiqui\source\repos\Student Record Portal\obj\Debug\Student_Record_Portal.Preview_form.resources

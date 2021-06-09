@@ -1,0 +1,12 @@
+C:\Users\Abdullah Siddiqui\source\repos\queue generic collection\bin\Debug\netcoreapp3.1\queue generic collection.exe
+C:\Users\Abdullah Siddiqui\source\repos\queue generic collection\bin\Debug\netcoreapp3.1\queue generic collection.deps.json
+C:\Users\Abdullah Siddiqui\source\repos\queue generic collection\bin\Debug\netcoreapp3.1\queue generic collection.runtimeconfig.json
+C:\Users\Abdullah Siddiqui\source\repos\queue generic collection\bin\Debug\netcoreapp3.1\queue generic collection.runtimeconfig.dev.json
+C:\Users\Abdullah Siddiqui\source\repos\queue generic collection\bin\Debug\netcoreapp3.1\queue generic collection.dll
+C:\Users\Abdullah Siddiqui\source\repos\queue generic collection\bin\Debug\netcoreapp3.1\queue generic collection.pdb
+C:\Users\Abdullah Siddiqui\source\repos\queue generic collection\obj\Debug\netcoreapp3.1\queue generic collection.AssemblyInfoInputs.cache
+C:\Users\Abdullah Siddiqui\source\repos\queue generic collection\obj\Debug\netcoreapp3.1\queue generic collection.AssemblyInfo.cs
+C:\Users\Abdullah Siddiqui\source\repos\queue generic collection\obj\Debug\netcoreapp3.1\queue generic collection.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Siddiqui\source\repos\queue generic collection\obj\Debug\netcoreapp3.1\queue generic collection.dll
+C:\Users\Abdullah Siddiqui\source\repos\queue generic collection\obj\Debug\netcoreapp3.1\queue generic collection.pdb
+C:\Users\Abdullah Siddiqui\source\repos\queue generic collection\obj\Debug\netcoreapp3.1\queue generic collection.genruntimeconfig.cache

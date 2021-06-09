@@ -1,0 +1,10 @@
+C:\Users\Abdullah Siddiqui\source\repos\calculator 2 operand\bin\Debug\calculator 2 operand.exe.config
+C:\Users\Abdullah Siddiqui\source\repos\calculator 2 operand\bin\Debug\calculator 2 operand.exe
+C:\Users\Abdullah Siddiqui\source\repos\calculator 2 operand\bin\Debug\calculator 2 operand.pdb
+C:\Users\Abdullah Siddiqui\source\repos\calculator 2 operand\obj\Debug\calculator 2 operand.csprojAssemblyReference.cache
+C:\Users\Abdullah Siddiqui\source\repos\calculator 2 operand\obj\Debug\calculator_2_operand.Form1.resources
+C:\Users\Abdullah Siddiqui\source\repos\calculator 2 operand\obj\Debug\calculator_2_operand.Properties.Resources.resources
+C:\Users\Abdullah Siddiqui\source\repos\calculator 2 operand\obj\Debug\calculator 2 operand.csproj.GenerateResource.cache
+C:\Users\Abdullah Siddiqui\source\repos\calculator 2 operand\obj\Debug\calculator 2 operand.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Siddiqui\source\repos\calculator 2 operand\obj\Debug\calculator 2 operand.exe
+C:\Users\Abdullah Siddiqui\source\repos\calculator 2 operand\obj\Debug\calculator 2 operand.pdb
