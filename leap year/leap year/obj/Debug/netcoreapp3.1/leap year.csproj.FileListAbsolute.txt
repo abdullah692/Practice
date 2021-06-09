@@ -1,0 +1,13 @@
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\leap year\leap year\bin\Debug\netcoreapp3.1\leap year.exe
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\leap year\leap year\bin\Debug\netcoreapp3.1\leap year.deps.json
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\leap year\leap year\bin\Debug\netcoreapp3.1\leap year.runtimeconfig.json
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\leap year\leap year\bin\Debug\netcoreapp3.1\leap year.runtimeconfig.dev.json
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\leap year\leap year\bin\Debug\netcoreapp3.1\leap year.dll
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\leap year\leap year\bin\Debug\netcoreapp3.1\leap year.pdb
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\leap year\leap year\obj\Debug\netcoreapp3.1\leap year.csprojAssemblyReference.cache
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\leap year\leap year\obj\Debug\netcoreapp3.1\leap year.AssemblyInfoInputs.cache
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\leap year\leap year\obj\Debug\netcoreapp3.1\leap year.AssemblyInfo.cs
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\leap year\leap year\obj\Debug\netcoreapp3.1\leap year.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\leap year\leap year\obj\Debug\netcoreapp3.1\leap year.dll
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\leap year\leap year\obj\Debug\netcoreapp3.1\leap year.pdb
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\leap year\leap year\obj\Debug\netcoreapp3.1\leap year.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\even odd\even odd\obj\Debug\netcoreapp3.1\even odd.csprojAssemblyReference.cache
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\even odd\even odd\obj\Debug\netcoreapp3.1\even odd.AssemblyInfoInputs.cache
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\even odd\even odd\obj\Debug\netcoreapp3.1\even odd.AssemblyInfo.cs
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\even odd\even odd\obj\Debug\netcoreapp3.1\even odd.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\even odd\even odd\bin\Debug\netcoreapp3.1\even odd.exe
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\even odd\even odd\bin\Debug\netcoreapp3.1\even odd.deps.json
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\even odd\even odd\bin\Debug\netcoreapp3.1\even odd.runtimeconfig.json
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\even odd\even odd\bin\Debug\netcoreapp3.1\even odd.runtimeconfig.dev.json
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\even odd\even odd\bin\Debug\netcoreapp3.1\even odd.dll
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\even odd\even odd\bin\Debug\netcoreapp3.1\even odd.pdb
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\even odd\even odd\obj\Debug\netcoreapp3.1\even odd.dll
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\even odd\even odd\obj\Debug\netcoreapp3.1\even odd.pdb
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\even odd\even odd\obj\Debug\netcoreapp3.1\even odd.genruntimeconfig.cache
