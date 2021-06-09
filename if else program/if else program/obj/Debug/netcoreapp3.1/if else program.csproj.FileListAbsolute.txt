@@ -1,0 +1,12 @@
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\if else program\if else program\bin\Debug\netcoreapp3.1\if else program.exe
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\if else program\if else program\bin\Debug\netcoreapp3.1\if else program.deps.json
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\if else program\if else program\bin\Debug\netcoreapp3.1\if else program.runtimeconfig.json
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\if else program\if else program\bin\Debug\netcoreapp3.1\if else program.runtimeconfig.dev.json
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\if else program\if else program\bin\Debug\netcoreapp3.1\if else program.dll
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\if else program\if else program\bin\Debug\netcoreapp3.1\if else program.pdb
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\if else program\if else program\obj\Debug\netcoreapp3.1\if else program.AssemblyInfoInputs.cache
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\if else program\if else program\obj\Debug\netcoreapp3.1\if else program.AssemblyInfo.cs
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\if else program\if else program\obj\Debug\netcoreapp3.1\if else program.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\if else program\if else program\obj\Debug\netcoreapp3.1\if else program.dll
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\if else program\if else program\obj\Debug\netcoreapp3.1\if else program.pdb
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\if else program\if else program\obj\Debug\netcoreapp3.1\if else program.genruntimeconfig.cache

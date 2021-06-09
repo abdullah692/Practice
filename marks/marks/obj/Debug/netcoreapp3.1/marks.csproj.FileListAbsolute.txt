@@ -1,0 +1,12 @@
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\marks\marks\bin\Debug\netcoreapp3.1\marks.exe
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\marks\marks\bin\Debug\netcoreapp3.1\marks.deps.json
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\marks\marks\bin\Debug\netcoreapp3.1\marks.runtimeconfig.json
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\marks\marks\bin\Debug\netcoreapp3.1\marks.runtimeconfig.dev.json
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\marks\marks\bin\Debug\netcoreapp3.1\marks.dll
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\marks\marks\bin\Debug\netcoreapp3.1\marks.pdb
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\marks\marks\obj\Debug\netcoreapp3.1\marks.AssemblyInfoInputs.cache
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\marks\marks\obj\Debug\netcoreapp3.1\marks.AssemblyInfo.cs
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\marks\marks\obj\Debug\netcoreapp3.1\marks.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\marks\marks\obj\Debug\netcoreapp3.1\marks.dll
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\marks\marks\obj\Debug\netcoreapp3.1\marks.pdb
+C:\Users\Abdullah Siddiqui\Desktop\C# Project\marks\marks\obj\Debug\netcoreapp3.1\marks.genruntimeconfig.cache
